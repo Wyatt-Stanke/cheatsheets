@@ -11,11 +11,11 @@ description: |
 ### Introduction
 {: .-intro}
 
-[HTTPie](https://httpie.org/) is a command-line HTTP client.
+[HTTPie](https://httpie.io/) is a command-line HTTP client.
 
-- [HTTPie website](https://httpie.org/) _(httpie.org)_
-- [HTTPie documentation](https://httpie.org/docs) _(httpie.org)_
-- [Try it online](https://httpie.org/run) _(httpie.org)_
+- [HTTPie website](https://httpie.io/) _(httpie.io)_
+- [HTTPie documentation](https://httpie.io/docs) _(httpie.io)_
+- [Try it online](https://httpie.io/run) _(httpie.io)_
 
 ### Parameters
 
@@ -98,4 +98,4 @@ $ echo '{"hello": "world"}' | http POST example.com/post
 
 ### References
 
-* <https://github.com/jakubroztocil/httpie>
+* <https://github.com/httpie/httpie>
